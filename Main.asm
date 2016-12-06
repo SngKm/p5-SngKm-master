@@ -1,4 +1,6 @@
 ; Main.asm
+; Name: Sangcheol Kim
+; UTEid: sk43688
 ; Continuously reads from x2600 making sure its not reading duplicate
 ; symbols. Processes the symbol based on the program description
 ; of mRNA processing.
