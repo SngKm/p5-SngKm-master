@@ -1,0 +1,28 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	A                       405C
+//	ADDVALUE                405A
+//	C                       405F
+//	CHAR                    405B
+//	DONE                    4055
+//	G                       405E
+//	INTERRUPT               4058
+//	ISR1                    4057
+//	IsG                     4047
+//	IsU                     4029
+//	KBSR                    4059
+//	Loop                    4024
+//	MaybeA                  400F
+//	MaybeG                  401E
+//	MaybeU                  4016
+//	PIPE                    4060
+//	STACK                   4056
+//	StartOver               400A
+//	U                       405D
+//	WAIT                    402D
+//	WAIT1                   403A
+//	WAIT2                   4048
+//	Wait4A                  400C
+//	Wait4Char               4026
+//	Wait4G                  401B
+//	Wait4U                  4013
